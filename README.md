@@ -1,3 +1,3 @@
 🌷💻⛏📅👗🎶🏡🍵✨ \
-Current Work~ [Parquet](https://github.com/mxashlynn/Parquet) | [Scribe](https://github.com/mxashlynn/Scribe) \
+Current Work~ [Parquet](https://github.com/mxashlynn/Parquet) | [Scribe](https://github.com/mxashlynn/Scribe) | [GB Trace](https://github.com/mxashlynn/GB-Trace) \
 Past Work~ [Yurivania](https://github.com/mxashlynn/Yurivania) | [Later Daters](https://www.nintendo.com/games/detail/later-daters-switch/) | [LongStory](https://www.nintendo.com/games/detail/longstory-a-dating-game-for-the-real-world-switch/) | [Read Only Memories: 2064](https://www.playstation.com/en-us/games/read-only-memories-ps4/) | [Magnetic By Nature](https://store.steampowered.com/app/296510/Magnetic_By_Nature/) | [Cute Crate](https://caidence.itch.io/cutecrate) | [Lightlike](https://mxashlynn.itch.io/lightlike)
