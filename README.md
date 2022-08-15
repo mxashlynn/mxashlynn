@@ -1,4 +1,4 @@
-🌷💻⛏📅👗🎶🏡🍵✨ \
+🌷💻⛏📅👗🎶🏡🍵✨
 
 [Yurivania 0](https://github.com/mxashlynn/Yurivania-0) | [Yurivania 1](https://github.com/mxashlynn/Yurivania-1) | [Yurivania 2](https://github.com/mxashlynn/Yurivania-2) 
 [Fonts for GB Studio](https://github.com/mxashlynn/gb-studio-fonts) | [Omelette Pixel Font for GB Studio](https://github.com/mxashlynn/gb-studio-omelette-font) | [GB Studio Stair Climb Mod](https://github.com/mxashlynn/StairClimbMod)
