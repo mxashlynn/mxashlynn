@@ -1,11 +1,9 @@
-🌷💻⛏📅👗🎶🏡🍵✨
+Hi, I'm Paige!
+I make queer comfortcore games~  🎮🍵🌷
 
-[Yurivania 0](https://github.com/mxashlynn/Yurivania-0) | [Yurivania 1](https://github.com/mxashlynn/Yurivania-1) | [Yurivania 2](https://github.com/mxashlynn/Yurivania-2) 
+I've been a coder, producer, and events organizer in the industry for 10 years.
+I'm now learning pixel art and game design!
 
-[Fonts for GB Studio](https://github.com/mxashlynn/gb-studio-fonts) | [Omelette Pixel Font for GB Studio](https://github.com/mxashlynn/gb-studio-omelette-font) | [GB Studio Stair Climb Mod](https://github.com/mxashlynn/StairClimbMod)
+Games I've helped ship include [🏫 LongStory](https://www.longstorygame.com/), [⌛ Later Daters](https://www.laterdatersgame.com/), [🤖 2064: Read Only Memories](https://2064.io/), and of course my [🌙 Yurivania series](https://mxashlynn.itch.io/yurivania).
 
-[Parquet](https://github.com/mxashlynn/Parquet) | [Scribe](https://github.com/mxashlynn/Scribe)
-
-[Read Only Memories: 2064](https://www.playstation.com/en-us/games/read-only-memories-ps4/) | [LongStory](https://www.nintendo.com/games/detail/longstory-a-dating-game-for-the-real-world-switch/) | [Later Daters](https://www.nintendo.com/games/detail/later-daters-switch/) | [Magnetic By Nature](https://store.steampowered.com/app/296510/Magnetic_By_Nature/)
-
-[Adorable Atlas](https://github.com/mxashlynn/AdorableAtlas) | [Cute Crate](https://caidence.itch.io/cutecrate) | [Lightlike](https://mxashlynn.itch.io/lightlike)
+I hope you find something you like here! 💖🎶
